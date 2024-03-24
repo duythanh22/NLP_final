@@ -1,0 +1,9 @@
+torch
+numpy
+pandas
+matplotlib
+torchtext
+scikit-learn
+tqdm
+spacy
+underthesea
